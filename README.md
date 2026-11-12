@@ -1,5 +1,6 @@
 # improved-data-evaluation-fatigue-tester
 
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/janpfrang-hash/improved-data-evaluation-fatigue-tester/blob/main/Improved_Data_evaluation_fatigue_tester.ipynb)
 
 # Fatigue Tester Log Analyzer: User Manual
 
